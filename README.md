@@ -1,16 +1,26 @@
-# notepad
+# 📝 Flutter Notes App  
 
-A new Flutter project.
+A simple and powerful notes app built with **Flutter**, **Node.js**, and **MongoDB**.  
+This project demonstrates full-stack development with backend APIs and a mobile frontend.  
 
-## Getting Started
+🚀 Features
+- User Registration (API: `regUser`)  
+- Add Notes (API: `addNote`)  
+- View Notes (API: `seeNote`)  
 
-This project is a starting point for a Flutter application.
+🛠️ Tech Stack
+- Frontend: Flutter  
+- Backend: Node.js (Express.js)  
+- Database: MongoDB  
 
-A few resources to get you started if this is your first Flutter project:
+📌 Setup
+1. Clone the repository  
+2. Install dependencies (`npm install` for backend, `flutter pub get` for frontend)  
+3. Run backend server (`node server.js`)  
+4. Run Flutter app (`flutter run`)  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+📷 Screenshots
+I added app images in project files folder name (appimages). 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+✨ Author
+Developed by Abdulrehman Tahseen  
